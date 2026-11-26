@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<edges>
-  <edge id="main_in" from="E" to="J" numLanes="4" speed="13.88888888888889" width="3.2" priority="2" />
-  <edge id="main_out" from="J" to="W" numLanes="4" speed="13.88888888888889" width="3.2" priority="2" />
-  <edge id="side_in" from="S" to="J" numLanes="2" speed="13.88888888888889" width="3.2" priority="1" />
-  <edge id="side_out" from="J" to="N" numLanes="2" speed="13.88888888888889" width="3.2" priority="1" />
-</edges>

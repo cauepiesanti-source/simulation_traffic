@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<edges>
-  <edge id="direita_in" from="D_src" to="J" numLanes="3" speed="13.88888888888889" width="3.2" priority="2" spreadType="center" shape="300,5.800000000000001 8,5.800000000000001" />
-  <edge id="direita_out" from="J" to="D_dst" numLanes="3" speed="13.88888888888889" width="3.2" priority="2" spreadType="center" shape="-8,5.800000000000001 -150,5.800000000000001" />
-  <edge id="esquerda_in" from="E_src" to="J" numLanes="3" speed="13.88888888888889" width="3.2" priority="2" spreadType="center" shape="300,-5.800000000000001 8,-5.800000000000001" />
-  <edge id="esquerda_out" from="J" to="E_dst" numLanes="3" speed="13.88888888888889" width="3.2" priority="2" spreadType="center" shape="-8,-5.800000000000001 -150,-5.800000000000001" />
-  <edge id="side_in" from="L_src" to="J" numLanes="3" speed="13.88888888888889" width="3.2" priority="1" spreadType="center" shape="0,-300 0,-13" />
-  <edge id="side_out" from="J" to="L_dst" numLanes="3" speed="13.88888888888889" width="3.2" priority="1" spreadType="center" shape="0,13 0,150" />
-</edges>
