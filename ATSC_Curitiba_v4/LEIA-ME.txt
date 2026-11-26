@@ -1,0 +1,78 @@
+ATSC CURITIBA v4.0 — UTFPR / Ciências do Ambiente
+================================================
+Python 3.10+; SUMO >=1.14; TraCI. Use a mesma instalação da v3.
+Extraia em pasta nova. Não substitua as versões anteriores.
+
+1. Teste de lógica (não exige SUMO):
+   python simular_atsc.py --self-test
+2. Ensaio isolado de capacidade (6 execuções curtas):
+   python simular_atsc.py --capacidade --out capacidade_v4
+   Envie capacidade_v4/capacidade/capacidade.json para análise.
+3. Teste integrado rápido (2 perfis, uma semente, escala 1.2):
+   python simular_atsc.py --rapido --scale 1.2 --perfis constante variavel --out teste_v4
+   10 comparações, 5 treinos e 2 ensaios de capacidade.
+4. Experimento completo (após conferir capacidade e teste):
+   python simular_atsc.py --out resultados_v4
+   5 escalas x 5 perfis x 5 controles x 5 sementes = 625 comparações;
+   5 escalas x 7 planos x 2 sementes = 70 treinos; 6 ensaios de capacidade.
+   Pode ser pesado. Para uma matriz mais enxuta, use --seeds 45 46 47
+   (375 comparações) ou --scales 1.0 1.2 1.4 (375 comparações com 5 sementes).
+   Cada escala concluída é consolidada imediatamente; se interromper,
+   preserve a pasta e execute as escalas restantes com outro --out.
+5. GUI opcional:
+   python simular_atsc.py --gui --cenario E --perfil ondas --scale 1.2 --out visual_v4
+
+SAÍDAS: painel_atsc.html (offline); resultados.json, resumo.csv,
+experimentos.csv, sensibilidade.csv, comparacoes_pareadas.csv, treinamento.csv;
+capacidade/capacidade.json e CSVs; pasta por escala com séries, logs e XMLs.
+Não envie tripinfo.xml; envie os arquivos consolidados e capacidade.json.
+Pasta de saída não vazia é recusada, para proteger os resultados anteriores.
+Historico/ contém cópias dos dados v2 e v3 (1.0, 1.2, 1.4), sem misturá-los
+às médias v4. Arquivos originais não foram alterados.
+
+CAPACIDADE: ensaio separado, sementes 20001–20003, duas execuções por
+semente (Visconde simultaneamente, Laurindo separadamente). Oferta de
+1 veículo/s/faixa; 100 s de vermelho para formar filas, depois verde.
+Contagem de IDs únicos em laços a 5 m das saídas entre 110 e 140 s.
+Exige >=5 parados em cada faixa na abertura e fila em todas as faixas em
+>=90% da janela, sem colisões/teleportes. Caso falhe, média omitida.
+Fluxo de saturação = 3600*N/30; capacidade nominal = saturação*verde/89.
+Referência estimada de Pereda: D=3846,35, E=4190,65, L=4085,33 VPa/h.
+Não há calibração automática: tau=1 s, minGap=2,5 m (v3). Se houver desvio
+importante, faça ensaios separados com --tau 1.2 (ou 1.4) e/ou --min-gap 3,
+sem escolher pelo ganho de E. Se alterar, use os mesmos parâmetros em
+TODOS os controladores/escala; registre o motivo. Ajustar a referência
+HCM não equivale a calibrar em campo. --sem-capacidade omite ensaio.
+
+CONTROLADOR E: alterna Visconde/Laurindo sem pular fases; observa a cada
+segundo veículos nos 80 m finais, fila parada e fila externa observada.
+Pressão em segundos de serviço = (max(contagem próxima, fila parada)
++ fila externa) * 3600/saturação publicada. Visconde usa max(D,E).
+Após 20 s de verde, pode terminar se houver demanda oposta e a via
+ativa ficar vazia por 3 s, ou se pressão oposta >= 1,25*ativa e exceder
+por >=3 s. Aos 57 s termina obrigatoriamente. Amarelo 4 s, vermelho
+integral 2 s. Intervalo entre verdes do mesmo grupo <=69 s; ciclo 52–126 s.
+Valores são hipóteses fixadas antes dos ensaios; não são projeto seguro
+pronto para campo. Não acessa eventos futuros. Fases reais exportadas.
+A–D mantêm lógica v3; B é treinado novamente em 2 sementes independentes
+(10001/10002), perfil constante, melhor média dos 7 candidatos. E não
+é ajustado por resultados de avaliação. Sementes 45–49 inéditas no estudo.
+Amostras pareadas por perfil/escala/semente; todas as viagens devem concluir
+após drenagem, sem colisões/teleportes. Grupo inválido não tem média.
+Perfis e escalas são hipóteses; média da sensibilidade dá pesos iguais
+aos perfis selecionados, não uma média diária de Curitiba.
+
+LIMITES: dados de 2022 extrapolados de registros de 16–17 min; nove
+faixas conforme informação de 2026, dimensões hipotéticas; sem pedestres,
+conversões, bloqueio jusante, validação atual ou planos fixos por horário.
+HBEFA3 classe representativa a gasolina; sem emissões da fila externa.
+PM10 não escapamento por distância (OCDE); desaceleração é indicador
+indireto, não medida de desgaste. Nenhuma extrapolação anual.
+
+FONTES: Pereda (UFPR 2023) https://acervodigital.ufpr.br/handle/1884/85314
+SUMO https://sumo.dlr.de/docs/Simulation/Traffic_Lights.html
+https://sumo.dlr.de/docs/Simulation/RoadCapacity.html
+https://sumo.dlr.de/docs/TraCI/Induction_Loop_Value_Retrieval.html
+FHWA https://ops.fhwa.dot.gov/trafficanalysistools/tat_vol3/sect5.htm
+OCDE https://www.oecd.org/en/publications/non-exhaust-particulate-emissions-from-road-transport_4a4dc6ca-en.html
+Repositório https://github.com/cauepiesanti-source/simulation_traffic

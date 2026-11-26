@@ -1,0 +1,4 @@
+﻿grupo,semente,verde_fase,janela_s,veiculos,faixa0,faixa1,faixa2,fila_min_abertura,fracao_fila_todas_faixas,saturacao_sim_vph,saturacao_ref_vpa_h,desvio_pct,tau,min_gap,colisoes,teleportes,valido
+D,20001,M,30,34,12,11,11,20,1.0,4080.0,3846.35,6.07459019590002,2.0,2.5,0,0,True
+E,20001,M,30,33,11,11,11,20,1.0,3960.0,4190.65,-5.503919439705052,2.0,2.5,0,0,True
+L,20001,L,30,35,11,12,12,21,1.0,4200.0,4085.33,2.8068723946413243,2.0,2.5,0,0,True

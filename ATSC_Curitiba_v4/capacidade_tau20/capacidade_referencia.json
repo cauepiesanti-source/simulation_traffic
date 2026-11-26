@@ -1,0 +1,20 @@
+{
+  "D": {
+    "fluxo_vpa_h": 1720,
+    "saturacao_publicada_vpa_h": 3846.35,
+    "capacidade_nominal_vpa_h": 1944.7837078651685,
+    "grau_saturacao_nominal": 0.8844171169492578
+  },
+  "E": {
+    "fluxo_vpa_h": 1920,
+    "saturacao_publicada_vpa_h": 4190.65,
+    "capacidade_nominal_vpa_h": 2118.8679775280893,
+    "grau_saturacao_nominal": 0.9061442337903033
+  },
+  "L": {
+    "fluxo_vpa_h": 1400,
+    "saturacao_publicada_vpa_h": 4085.33,
+    "capacidade_nominal_vpa_h": 1468.8826966292136,
+    "grau_saturacao_nominal": 0.9531053794919871
+  }
+}

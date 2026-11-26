@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<additional>
+  <inductionLoop id="D_0" lane="direita_out_0" pos="5" period="145" file="P:\Meu Drive\Documentos\UTFPR\2026-2\Ciências do ambiente\Projeto 1\Simulation\ATSC_Curitiba_v4\resultados_v4_calibrado\capacidade\20003_M\loops.xml" />
+  <inductionLoop id="D_1" lane="direita_out_1" pos="5" period="145" file="P:\Meu Drive\Documentos\UTFPR\2026-2\Ciências do ambiente\Projeto 1\Simulation\ATSC_Curitiba_v4\resultados_v4_calibrado\capacidade\20003_M\loops.xml" />
+  <inductionLoop id="D_2" lane="direita_out_2" pos="5" period="145" file="P:\Meu Drive\Documentos\UTFPR\2026-2\Ciências do ambiente\Projeto 1\Simulation\ATSC_Curitiba_v4\resultados_v4_calibrado\capacidade\20003_M\loops.xml" />
+  <inductionLoop id="E_0" lane="esquerda_out_0" pos="5" period="145" file="P:\Meu Drive\Documentos\UTFPR\2026-2\Ciências do ambiente\Projeto 1\Simulation\ATSC_Curitiba_v4\resultados_v4_calibrado\capacidade\20003_M\loops.xml" />
+  <inductionLoop id="E_1" lane="esquerda_out_1" pos="5" period="145" file="P:\Meu Drive\Documentos\UTFPR\2026-2\Ciências do ambiente\Projeto 1\Simulation\ATSC_Curitiba_v4\resultados_v4_calibrado\capacidade\20003_M\loops.xml" />
+  <inductionLoop id="E_2" lane="esquerda_out_2" pos="5" period="145" file="P:\Meu Drive\Documentos\UTFPR\2026-2\Ciências do ambiente\Projeto 1\Simulation\ATSC_Curitiba_v4\resultados_v4_calibrado\capacidade\20003_M\loops.xml" />
+</additional>

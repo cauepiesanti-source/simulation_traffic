@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<additional>
+  <inductionLoop id="L_0" lane="side_out_0" pos="5" period="145" file="P:\Meu Drive\Documentos\UTFPR\2026-2\Ciências do ambiente\Projeto 1\Simulation\ATSC_Curitiba_v4\capacidade_v4\capacidade\20003_L\loops.xml" />
+  <inductionLoop id="L_1" lane="side_out_1" pos="5" period="145" file="P:\Meu Drive\Documentos\UTFPR\2026-2\Ciências do ambiente\Projeto 1\Simulation\ATSC_Curitiba_v4\capacidade_v4\capacidade\20003_L\loops.xml" />
+  <inductionLoop id="L_2" lane="side_out_2" pos="5" period="145" file="P:\Meu Drive\Documentos\UTFPR\2026-2\Ciências do ambiente\Projeto 1\Simulation\ATSC_Curitiba_v4\capacidade_v4\capacidade\20003_L\loops.xml" />
+</additional>

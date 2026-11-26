@@ -1,0 +1,7 @@
+***Starting server on port 56023 ***
+Loading net-file from 'P:\Meu Drive\Documentos\UTFPR\2026-2\Ciências do ambiente\Projeto 1\Simulation\ATSC_Curitiba_v3\resultados_v3_120\rede\rede.net.xml' ... done (25ms).
+Loading route-files from 'P:\Meu Drive\Documentos\UTFPR\2026-2\Ciências do ambiente\Projeto 1\Simulation\ATSC_Curitiba_v3\resultados_v3_120\constante\43\demanda.rou.xml' ... done (350ms).
+Loading done.
+Simulation version 1.28.0 started with time: 0.00.
+Simulation ended at time: 3670.00.
+Reason: TraCI requested termination.

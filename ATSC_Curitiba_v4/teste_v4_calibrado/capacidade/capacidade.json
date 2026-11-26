@@ -1,0 +1,104 @@
+{
+  "janela_s": [
+    110,
+    140
+  ],
+  "pre_verde_s": 100,
+  "metodo": "contagem de IDs únicos em laços a 5 m das saídas; fila continuamente disponível",
+  "tau": 2.0,
+  "min_gap": 2.5,
+  "resumo": [
+    {
+      "grupo": "D",
+      "n": 1,
+      "n_validos": 1,
+      "saturacao_sim_vph": 4080.0,
+      "saturacao_ref_vpa_h": 3846.35,
+      "desvio_pct": 6.07459019590002,
+      "dp": null,
+      "capacidade_nominal_sim_vph": 2062.921348314607
+    },
+    {
+      "grupo": "E",
+      "n": 1,
+      "n_validos": 1,
+      "saturacao_sim_vph": 3960.0,
+      "saturacao_ref_vpa_h": 4190.65,
+      "desvio_pct": -5.503919439705052,
+      "dp": null,
+      "capacidade_nominal_sim_vph": 2002.247191011236
+    },
+    {
+      "grupo": "L",
+      "n": 1,
+      "n_validos": 1,
+      "saturacao_sim_vph": 4200.0,
+      "saturacao_ref_vpa_h": 4085.33,
+      "desvio_pct": 2.8068723946413243,
+      "dp": null,
+      "capacidade_nominal_sim_vph": 1510.112359550562
+    }
+  ],
+  "ensaios": [
+    {
+      "grupo": "D",
+      "semente": 20001,
+      "verde_fase": "M",
+      "janela_s": 30,
+      "veiculos": 34,
+      "faixa0": 12,
+      "faixa1": 11,
+      "faixa2": 11,
+      "fila_min_abertura": 20,
+      "fracao_fila_todas_faixas": 1.0,
+      "saturacao_sim_vph": 4080.0,
+      "saturacao_ref_vpa_h": 3846.35,
+      "desvio_pct": 6.07459019590002,
+      "tau": 2.0,
+      "min_gap": 2.5,
+      "colisoes": 0,
+      "teleportes": 0,
+      "valido": true
+    },
+    {
+      "grupo": "E",
+      "semente": 20001,
+      "verde_fase": "M",
+      "janela_s": 30,
+      "veiculos": 33,
+      "faixa0": 11,
+      "faixa1": 11,
+      "faixa2": 11,
+      "fila_min_abertura": 20,
+      "fracao_fila_todas_faixas": 1.0,
+      "saturacao_sim_vph": 3960.0,
+      "saturacao_ref_vpa_h": 4190.65,
+      "desvio_pct": -5.503919439705052,
+      "tau": 2.0,
+      "min_gap": 2.5,
+      "colisoes": 0,
+      "teleportes": 0,
+      "valido": true
+    },
+    {
+      "grupo": "L",
+      "semente": 20001,
+      "verde_fase": "L",
+      "janela_s": 30,
+      "veiculos": 35,
+      "faixa0": 11,
+      "faixa1": 12,
+      "faixa2": 12,
+      "fila_min_abertura": 21,
+      "fracao_fila_todas_faixas": 1.0,
+      "saturacao_sim_vph": 4200.0,
+      "saturacao_ref_vpa_h": 4085.33,
+      "desvio_pct": 2.8068723946413243,
+      "tau": 2.0,
+      "min_gap": 2.5,
+      "colisoes": 0,
+      "teleportes": 0,
+      "valido": true
+    }
+  ]
+}

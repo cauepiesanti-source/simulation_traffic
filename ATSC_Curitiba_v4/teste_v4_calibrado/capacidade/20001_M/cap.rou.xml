@@ -1,0 +1,2614 @@
+<?xml version='1.0' encoding='utf-8'?>
+<routes>
+  <vType id="equivalente" vClass="passenger" carFollowModel="Krauss" length="4.5" minGap="2.5" tau="2.0" accel="2.6" decel="4.5" sigma="0.5" speedFactor="1.0" speedDev="0.0" emissionClass="HBEFA3/PC_G_EU4" />
+  <vehicle id="D_0000_0" type="equivalente" depart="0.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0000_1" type="equivalente" depart="0.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0000_2" type="equivalente" depart="0.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0000_0" type="equivalente" depart="0.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0000_1" type="equivalente" depart="0.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0000_2" type="equivalente" depart="0.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0001_0" type="equivalente" depart="1.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0001_1" type="equivalente" depart="1.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0001_2" type="equivalente" depart="1.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0001_0" type="equivalente" depart="1.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0001_1" type="equivalente" depart="1.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0001_2" type="equivalente" depart="1.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0002_0" type="equivalente" depart="2.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0002_1" type="equivalente" depart="2.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0002_2" type="equivalente" depart="2.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0002_0" type="equivalente" depart="2.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0002_1" type="equivalente" depart="2.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0002_2" type="equivalente" depart="2.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0003_0" type="equivalente" depart="3.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0003_1" type="equivalente" depart="3.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0003_2" type="equivalente" depart="3.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0003_0" type="equivalente" depart="3.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0003_1" type="equivalente" depart="3.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0003_2" type="equivalente" depart="3.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0004_0" type="equivalente" depart="4.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0004_1" type="equivalente" depart="4.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0004_2" type="equivalente" depart="4.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0004_0" type="equivalente" depart="4.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0004_1" type="equivalente" depart="4.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0004_2" type="equivalente" depart="4.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0005_0" type="equivalente" depart="5.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0005_1" type="equivalente" depart="5.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0005_2" type="equivalente" depart="5.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0005_0" type="equivalente" depart="5.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0005_1" type="equivalente" depart="5.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0005_2" type="equivalente" depart="5.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0006_0" type="equivalente" depart="6.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0006_1" type="equivalente" depart="6.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0006_2" type="equivalente" depart="6.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0006_0" type="equivalente" depart="6.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0006_1" type="equivalente" depart="6.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0006_2" type="equivalente" depart="6.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0007_0" type="equivalente" depart="7.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0007_1" type="equivalente" depart="7.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0007_2" type="equivalente" depart="7.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0007_0" type="equivalente" depart="7.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0007_1" type="equivalente" depart="7.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0007_2" type="equivalente" depart="7.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0008_0" type="equivalente" depart="8.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0008_1" type="equivalente" depart="8.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0008_2" type="equivalente" depart="8.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0008_0" type="equivalente" depart="8.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0008_1" type="equivalente" depart="8.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0008_2" type="equivalente" depart="8.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0009_0" type="equivalente" depart="9.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0009_1" type="equivalente" depart="9.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0009_2" type="equivalente" depart="9.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0009_0" type="equivalente" depart="9.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0009_1" type="equivalente" depart="9.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0009_2" type="equivalente" depart="9.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0010_0" type="equivalente" depart="10.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0010_1" type="equivalente" depart="10.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0010_2" type="equivalente" depart="10.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0010_0" type="equivalente" depart="10.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0010_1" type="equivalente" depart="10.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0010_2" type="equivalente" depart="10.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0011_0" type="equivalente" depart="11.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0011_1" type="equivalente" depart="11.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0011_2" type="equivalente" depart="11.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0011_0" type="equivalente" depart="11.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0011_1" type="equivalente" depart="11.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0011_2" type="equivalente" depart="11.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0012_0" type="equivalente" depart="12.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0012_1" type="equivalente" depart="12.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0012_2" type="equivalente" depart="12.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0012_0" type="equivalente" depart="12.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0012_1" type="equivalente" depart="12.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0012_2" type="equivalente" depart="12.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0013_0" type="equivalente" depart="13.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0013_1" type="equivalente" depart="13.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0013_2" type="equivalente" depart="13.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0013_0" type="equivalente" depart="13.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0013_1" type="equivalente" depart="13.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0013_2" type="equivalente" depart="13.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0014_0" type="equivalente" depart="14.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0014_1" type="equivalente" depart="14.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0014_2" type="equivalente" depart="14.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0014_0" type="equivalente" depart="14.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0014_1" type="equivalente" depart="14.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0014_2" type="equivalente" depart="14.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0015_0" type="equivalente" depart="15.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0015_1" type="equivalente" depart="15.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0015_2" type="equivalente" depart="15.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0015_0" type="equivalente" depart="15.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0015_1" type="equivalente" depart="15.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0015_2" type="equivalente" depart="15.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0016_0" type="equivalente" depart="16.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0016_1" type="equivalente" depart="16.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0016_2" type="equivalente" depart="16.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0016_0" type="equivalente" depart="16.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0016_1" type="equivalente" depart="16.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0016_2" type="equivalente" depart="16.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0017_0" type="equivalente" depart="17.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0017_1" type="equivalente" depart="17.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0017_2" type="equivalente" depart="17.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0017_0" type="equivalente" depart="17.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0017_1" type="equivalente" depart="17.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0017_2" type="equivalente" depart="17.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0018_0" type="equivalente" depart="18.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0018_1" type="equivalente" depart="18.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0018_2" type="equivalente" depart="18.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0018_0" type="equivalente" depart="18.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0018_1" type="equivalente" depart="18.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0018_2" type="equivalente" depart="18.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0019_0" type="equivalente" depart="19.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0019_1" type="equivalente" depart="19.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0019_2" type="equivalente" depart="19.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0019_0" type="equivalente" depart="19.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0019_1" type="equivalente" depart="19.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0019_2" type="equivalente" depart="19.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0020_0" type="equivalente" depart="20.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0020_1" type="equivalente" depart="20.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0020_2" type="equivalente" depart="20.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0020_0" type="equivalente" depart="20.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0020_1" type="equivalente" depart="20.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0020_2" type="equivalente" depart="20.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0021_0" type="equivalente" depart="21.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0021_1" type="equivalente" depart="21.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0021_2" type="equivalente" depart="21.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0021_0" type="equivalente" depart="21.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0021_1" type="equivalente" depart="21.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0021_2" type="equivalente" depart="21.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0022_0" type="equivalente" depart="22.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0022_1" type="equivalente" depart="22.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0022_2" type="equivalente" depart="22.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0022_0" type="equivalente" depart="22.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0022_1" type="equivalente" depart="22.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0022_2" type="equivalente" depart="22.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0023_0" type="equivalente" depart="23.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0023_1" type="equivalente" depart="23.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0023_2" type="equivalente" depart="23.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0023_0" type="equivalente" depart="23.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0023_1" type="equivalente" depart="23.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0023_2" type="equivalente" depart="23.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0024_0" type="equivalente" depart="24.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0024_1" type="equivalente" depart="24.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0024_2" type="equivalente" depart="24.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0024_0" type="equivalente" depart="24.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0024_1" type="equivalente" depart="24.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0024_2" type="equivalente" depart="24.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0025_0" type="equivalente" depart="25.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0025_1" type="equivalente" depart="25.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0025_2" type="equivalente" depart="25.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0025_0" type="equivalente" depart="25.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0025_1" type="equivalente" depart="25.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0025_2" type="equivalente" depart="25.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0026_0" type="equivalente" depart="26.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0026_1" type="equivalente" depart="26.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0026_2" type="equivalente" depart="26.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0026_0" type="equivalente" depart="26.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0026_1" type="equivalente" depart="26.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0026_2" type="equivalente" depart="26.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0027_0" type="equivalente" depart="27.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0027_1" type="equivalente" depart="27.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0027_2" type="equivalente" depart="27.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0027_0" type="equivalente" depart="27.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0027_1" type="equivalente" depart="27.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0027_2" type="equivalente" depart="27.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0028_0" type="equivalente" depart="28.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0028_1" type="equivalente" depart="28.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0028_2" type="equivalente" depart="28.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0028_0" type="equivalente" depart="28.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0028_1" type="equivalente" depart="28.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0028_2" type="equivalente" depart="28.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0029_0" type="equivalente" depart="29.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0029_1" type="equivalente" depart="29.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0029_2" type="equivalente" depart="29.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0029_0" type="equivalente" depart="29.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0029_1" type="equivalente" depart="29.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0029_2" type="equivalente" depart="29.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0030_0" type="equivalente" depart="30.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0030_1" type="equivalente" depart="30.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0030_2" type="equivalente" depart="30.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0030_0" type="equivalente" depart="30.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0030_1" type="equivalente" depart="30.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0030_2" type="equivalente" depart="30.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0031_0" type="equivalente" depart="31.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0031_1" type="equivalente" depart="31.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0031_2" type="equivalente" depart="31.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0031_0" type="equivalente" depart="31.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0031_1" type="equivalente" depart="31.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0031_2" type="equivalente" depart="31.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0032_0" type="equivalente" depart="32.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0032_1" type="equivalente" depart="32.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0032_2" type="equivalente" depart="32.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0032_0" type="equivalente" depart="32.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0032_1" type="equivalente" depart="32.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0032_2" type="equivalente" depart="32.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0033_0" type="equivalente" depart="33.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0033_1" type="equivalente" depart="33.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0033_2" type="equivalente" depart="33.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0033_0" type="equivalente" depart="33.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0033_1" type="equivalente" depart="33.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0033_2" type="equivalente" depart="33.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0034_0" type="equivalente" depart="34.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0034_1" type="equivalente" depart="34.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0034_2" type="equivalente" depart="34.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0034_0" type="equivalente" depart="34.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0034_1" type="equivalente" depart="34.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0034_2" type="equivalente" depart="34.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0035_0" type="equivalente" depart="35.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0035_1" type="equivalente" depart="35.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0035_2" type="equivalente" depart="35.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0035_0" type="equivalente" depart="35.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0035_1" type="equivalente" depart="35.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0035_2" type="equivalente" depart="35.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0036_0" type="equivalente" depart="36.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0036_1" type="equivalente" depart="36.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0036_2" type="equivalente" depart="36.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0036_0" type="equivalente" depart="36.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0036_1" type="equivalente" depart="36.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0036_2" type="equivalente" depart="36.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0037_0" type="equivalente" depart="37.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0037_1" type="equivalente" depart="37.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0037_2" type="equivalente" depart="37.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0037_0" type="equivalente" depart="37.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0037_1" type="equivalente" depart="37.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0037_2" type="equivalente" depart="37.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0038_0" type="equivalente" depart="38.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0038_1" type="equivalente" depart="38.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0038_2" type="equivalente" depart="38.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0038_0" type="equivalente" depart="38.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0038_1" type="equivalente" depart="38.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0038_2" type="equivalente" depart="38.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0039_0" type="equivalente" depart="39.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0039_1" type="equivalente" depart="39.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0039_2" type="equivalente" depart="39.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0039_0" type="equivalente" depart="39.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0039_1" type="equivalente" depart="39.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0039_2" type="equivalente" depart="39.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0040_0" type="equivalente" depart="40.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0040_1" type="equivalente" depart="40.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0040_2" type="equivalente" depart="40.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0040_0" type="equivalente" depart="40.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0040_1" type="equivalente" depart="40.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0040_2" type="equivalente" depart="40.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0041_0" type="equivalente" depart="41.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0041_1" type="equivalente" depart="41.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0041_2" type="equivalente" depart="41.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0041_0" type="equivalente" depart="41.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0041_1" type="equivalente" depart="41.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0041_2" type="equivalente" depart="41.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0042_0" type="equivalente" depart="42.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0042_1" type="equivalente" depart="42.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0042_2" type="equivalente" depart="42.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0042_0" type="equivalente" depart="42.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0042_1" type="equivalente" depart="42.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0042_2" type="equivalente" depart="42.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0043_0" type="equivalente" depart="43.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0043_1" type="equivalente" depart="43.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0043_2" type="equivalente" depart="43.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0043_0" type="equivalente" depart="43.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0043_1" type="equivalente" depart="43.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0043_2" type="equivalente" depart="43.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0044_0" type="equivalente" depart="44.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0044_1" type="equivalente" depart="44.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0044_2" type="equivalente" depart="44.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0044_0" type="equivalente" depart="44.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0044_1" type="equivalente" depart="44.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0044_2" type="equivalente" depart="44.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0045_0" type="equivalente" depart="45.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0045_1" type="equivalente" depart="45.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0045_2" type="equivalente" depart="45.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0045_0" type="equivalente" depart="45.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0045_1" type="equivalente" depart="45.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0045_2" type="equivalente" depart="45.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0046_0" type="equivalente" depart="46.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0046_1" type="equivalente" depart="46.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0046_2" type="equivalente" depart="46.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0046_0" type="equivalente" depart="46.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0046_1" type="equivalente" depart="46.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0046_2" type="equivalente" depart="46.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0047_0" type="equivalente" depart="47.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0047_1" type="equivalente" depart="47.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0047_2" type="equivalente" depart="47.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0047_0" type="equivalente" depart="47.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0047_1" type="equivalente" depart="47.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0047_2" type="equivalente" depart="47.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0048_0" type="equivalente" depart="48.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0048_1" type="equivalente" depart="48.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0048_2" type="equivalente" depart="48.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0048_0" type="equivalente" depart="48.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0048_1" type="equivalente" depart="48.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0048_2" type="equivalente" depart="48.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0049_0" type="equivalente" depart="49.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0049_1" type="equivalente" depart="49.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0049_2" type="equivalente" depart="49.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0049_0" type="equivalente" depart="49.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0049_1" type="equivalente" depart="49.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0049_2" type="equivalente" depart="49.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0050_0" type="equivalente" depart="50.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0050_1" type="equivalente" depart="50.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0050_2" type="equivalente" depart="50.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0050_0" type="equivalente" depart="50.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0050_1" type="equivalente" depart="50.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0050_2" type="equivalente" depart="50.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0051_0" type="equivalente" depart="51.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0051_1" type="equivalente" depart="51.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0051_2" type="equivalente" depart="51.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0051_0" type="equivalente" depart="51.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0051_1" type="equivalente" depart="51.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0051_2" type="equivalente" depart="51.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0052_0" type="equivalente" depart="52.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0052_1" type="equivalente" depart="52.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0052_2" type="equivalente" depart="52.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0052_0" type="equivalente" depart="52.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0052_1" type="equivalente" depart="52.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0052_2" type="equivalente" depart="52.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0053_0" type="equivalente" depart="53.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0053_1" type="equivalente" depart="53.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0053_2" type="equivalente" depart="53.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0053_0" type="equivalente" depart="53.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0053_1" type="equivalente" depart="53.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0053_2" type="equivalente" depart="53.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0054_0" type="equivalente" depart="54.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0054_1" type="equivalente" depart="54.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0054_2" type="equivalente" depart="54.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0054_0" type="equivalente" depart="54.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0054_1" type="equivalente" depart="54.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0054_2" type="equivalente" depart="54.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0055_0" type="equivalente" depart="55.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0055_1" type="equivalente" depart="55.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0055_2" type="equivalente" depart="55.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0055_0" type="equivalente" depart="55.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0055_1" type="equivalente" depart="55.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0055_2" type="equivalente" depart="55.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0056_0" type="equivalente" depart="56.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0056_1" type="equivalente" depart="56.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0056_2" type="equivalente" depart="56.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0056_0" type="equivalente" depart="56.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0056_1" type="equivalente" depart="56.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0056_2" type="equivalente" depart="56.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0057_0" type="equivalente" depart="57.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0057_1" type="equivalente" depart="57.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0057_2" type="equivalente" depart="57.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0057_0" type="equivalente" depart="57.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0057_1" type="equivalente" depart="57.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0057_2" type="equivalente" depart="57.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0058_0" type="equivalente" depart="58.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0058_1" type="equivalente" depart="58.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0058_2" type="equivalente" depart="58.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0058_0" type="equivalente" depart="58.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0058_1" type="equivalente" depart="58.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0058_2" type="equivalente" depart="58.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0059_0" type="equivalente" depart="59.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0059_1" type="equivalente" depart="59.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0059_2" type="equivalente" depart="59.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0059_0" type="equivalente" depart="59.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0059_1" type="equivalente" depart="59.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0059_2" type="equivalente" depart="59.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0060_0" type="equivalente" depart="60.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0060_1" type="equivalente" depart="60.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0060_2" type="equivalente" depart="60.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0060_0" type="equivalente" depart="60.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0060_1" type="equivalente" depart="60.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0060_2" type="equivalente" depart="60.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0061_0" type="equivalente" depart="61.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0061_1" type="equivalente" depart="61.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0061_2" type="equivalente" depart="61.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0061_0" type="equivalente" depart="61.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0061_1" type="equivalente" depart="61.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0061_2" type="equivalente" depart="61.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0062_0" type="equivalente" depart="62.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0062_1" type="equivalente" depart="62.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0062_2" type="equivalente" depart="62.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0062_0" type="equivalente" depart="62.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0062_1" type="equivalente" depart="62.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0062_2" type="equivalente" depart="62.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0063_0" type="equivalente" depart="63.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0063_1" type="equivalente" depart="63.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0063_2" type="equivalente" depart="63.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0063_0" type="equivalente" depart="63.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0063_1" type="equivalente" depart="63.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0063_2" type="equivalente" depart="63.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0064_0" type="equivalente" depart="64.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0064_1" type="equivalente" depart="64.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0064_2" type="equivalente" depart="64.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0064_0" type="equivalente" depart="64.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0064_1" type="equivalente" depart="64.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0064_2" type="equivalente" depart="64.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0065_0" type="equivalente" depart="65.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0065_1" type="equivalente" depart="65.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0065_2" type="equivalente" depart="65.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0065_0" type="equivalente" depart="65.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0065_1" type="equivalente" depart="65.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0065_2" type="equivalente" depart="65.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0066_0" type="equivalente" depart="66.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0066_1" type="equivalente" depart="66.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0066_2" type="equivalente" depart="66.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0066_0" type="equivalente" depart="66.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0066_1" type="equivalente" depart="66.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0066_2" type="equivalente" depart="66.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0067_0" type="equivalente" depart="67.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0067_1" type="equivalente" depart="67.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0067_2" type="equivalente" depart="67.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0067_0" type="equivalente" depart="67.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0067_1" type="equivalente" depart="67.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0067_2" type="equivalente" depart="67.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0068_0" type="equivalente" depart="68.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0068_1" type="equivalente" depart="68.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0068_2" type="equivalente" depart="68.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0068_0" type="equivalente" depart="68.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0068_1" type="equivalente" depart="68.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0068_2" type="equivalente" depart="68.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0069_0" type="equivalente" depart="69.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0069_1" type="equivalente" depart="69.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0069_2" type="equivalente" depart="69.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0069_0" type="equivalente" depart="69.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0069_1" type="equivalente" depart="69.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0069_2" type="equivalente" depart="69.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0070_0" type="equivalente" depart="70.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0070_1" type="equivalente" depart="70.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0070_2" type="equivalente" depart="70.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0070_0" type="equivalente" depart="70.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0070_1" type="equivalente" depart="70.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0070_2" type="equivalente" depart="70.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0071_0" type="equivalente" depart="71.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0071_1" type="equivalente" depart="71.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0071_2" type="equivalente" depart="71.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0071_0" type="equivalente" depart="71.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0071_1" type="equivalente" depart="71.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0071_2" type="equivalente" depart="71.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0072_0" type="equivalente" depart="72.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0072_1" type="equivalente" depart="72.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0072_2" type="equivalente" depart="72.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0072_0" type="equivalente" depart="72.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0072_1" type="equivalente" depart="72.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0072_2" type="equivalente" depart="72.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0073_0" type="equivalente" depart="73.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0073_1" type="equivalente" depart="73.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0073_2" type="equivalente" depart="73.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0073_0" type="equivalente" depart="73.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0073_1" type="equivalente" depart="73.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0073_2" type="equivalente" depart="73.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0074_0" type="equivalente" depart="74.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0074_1" type="equivalente" depart="74.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0074_2" type="equivalente" depart="74.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0074_0" type="equivalente" depart="74.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0074_1" type="equivalente" depart="74.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0074_2" type="equivalente" depart="74.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0075_0" type="equivalente" depart="75.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0075_1" type="equivalente" depart="75.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0075_2" type="equivalente" depart="75.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0075_0" type="equivalente" depart="75.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0075_1" type="equivalente" depart="75.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0075_2" type="equivalente" depart="75.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0076_0" type="equivalente" depart="76.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0076_1" type="equivalente" depart="76.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0076_2" type="equivalente" depart="76.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0076_0" type="equivalente" depart="76.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0076_1" type="equivalente" depart="76.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0076_2" type="equivalente" depart="76.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0077_0" type="equivalente" depart="77.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0077_1" type="equivalente" depart="77.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0077_2" type="equivalente" depart="77.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0077_0" type="equivalente" depart="77.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0077_1" type="equivalente" depart="77.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0077_2" type="equivalente" depart="77.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0078_0" type="equivalente" depart="78.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0078_1" type="equivalente" depart="78.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0078_2" type="equivalente" depart="78.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0078_0" type="equivalente" depart="78.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0078_1" type="equivalente" depart="78.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0078_2" type="equivalente" depart="78.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0079_0" type="equivalente" depart="79.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0079_1" type="equivalente" depart="79.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0079_2" type="equivalente" depart="79.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0079_0" type="equivalente" depart="79.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0079_1" type="equivalente" depart="79.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0079_2" type="equivalente" depart="79.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0080_0" type="equivalente" depart="80.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0080_1" type="equivalente" depart="80.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0080_2" type="equivalente" depart="80.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0080_0" type="equivalente" depart="80.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0080_1" type="equivalente" depart="80.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0080_2" type="equivalente" depart="80.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0081_0" type="equivalente" depart="81.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0081_1" type="equivalente" depart="81.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0081_2" type="equivalente" depart="81.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0081_0" type="equivalente" depart="81.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0081_1" type="equivalente" depart="81.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0081_2" type="equivalente" depart="81.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0082_0" type="equivalente" depart="82.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0082_1" type="equivalente" depart="82.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0082_2" type="equivalente" depart="82.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0082_0" type="equivalente" depart="82.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0082_1" type="equivalente" depart="82.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0082_2" type="equivalente" depart="82.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0083_0" type="equivalente" depart="83.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0083_1" type="equivalente" depart="83.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0083_2" type="equivalente" depart="83.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0083_0" type="equivalente" depart="83.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0083_1" type="equivalente" depart="83.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0083_2" type="equivalente" depart="83.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0084_0" type="equivalente" depart="84.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0084_1" type="equivalente" depart="84.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0084_2" type="equivalente" depart="84.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0084_0" type="equivalente" depart="84.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0084_1" type="equivalente" depart="84.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0084_2" type="equivalente" depart="84.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0085_0" type="equivalente" depart="85.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0085_1" type="equivalente" depart="85.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0085_2" type="equivalente" depart="85.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0085_0" type="equivalente" depart="85.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0085_1" type="equivalente" depart="85.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0085_2" type="equivalente" depart="85.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0086_0" type="equivalente" depart="86.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0086_1" type="equivalente" depart="86.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0086_2" type="equivalente" depart="86.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0086_0" type="equivalente" depart="86.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0086_1" type="equivalente" depart="86.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0086_2" type="equivalente" depart="86.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0087_0" type="equivalente" depart="87.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0087_1" type="equivalente" depart="87.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0087_2" type="equivalente" depart="87.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0087_0" type="equivalente" depart="87.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0087_1" type="equivalente" depart="87.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0087_2" type="equivalente" depart="87.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0088_0" type="equivalente" depart="88.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0088_1" type="equivalente" depart="88.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0088_2" type="equivalente" depart="88.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0088_0" type="equivalente" depart="88.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0088_1" type="equivalente" depart="88.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0088_2" type="equivalente" depart="88.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0089_0" type="equivalente" depart="89.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0089_1" type="equivalente" depart="89.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0089_2" type="equivalente" depart="89.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0089_0" type="equivalente" depart="89.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0089_1" type="equivalente" depart="89.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0089_2" type="equivalente" depart="89.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0090_0" type="equivalente" depart="90.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0090_1" type="equivalente" depart="90.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0090_2" type="equivalente" depart="90.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0090_0" type="equivalente" depart="90.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0090_1" type="equivalente" depart="90.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0090_2" type="equivalente" depart="90.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0091_0" type="equivalente" depart="91.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0091_1" type="equivalente" depart="91.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0091_2" type="equivalente" depart="91.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0091_0" type="equivalente" depart="91.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0091_1" type="equivalente" depart="91.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0091_2" type="equivalente" depart="91.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0092_0" type="equivalente" depart="92.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0092_1" type="equivalente" depart="92.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0092_2" type="equivalente" depart="92.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0092_0" type="equivalente" depart="92.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0092_1" type="equivalente" depart="92.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0092_2" type="equivalente" depart="92.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0093_0" type="equivalente" depart="93.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0093_1" type="equivalente" depart="93.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0093_2" type="equivalente" depart="93.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0093_0" type="equivalente" depart="93.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0093_1" type="equivalente" depart="93.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0093_2" type="equivalente" depart="93.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0094_0" type="equivalente" depart="94.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0094_1" type="equivalente" depart="94.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0094_2" type="equivalente" depart="94.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0094_0" type="equivalente" depart="94.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0094_1" type="equivalente" depart="94.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0094_2" type="equivalente" depart="94.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0095_0" type="equivalente" depart="95.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0095_1" type="equivalente" depart="95.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0095_2" type="equivalente" depart="95.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0095_0" type="equivalente" depart="95.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0095_1" type="equivalente" depart="95.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0095_2" type="equivalente" depart="95.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0096_0" type="equivalente" depart="96.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0096_1" type="equivalente" depart="96.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0096_2" type="equivalente" depart="96.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0096_0" type="equivalente" depart="96.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0096_1" type="equivalente" depart="96.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0096_2" type="equivalente" depart="96.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0097_0" type="equivalente" depart="97.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0097_1" type="equivalente" depart="97.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0097_2" type="equivalente" depart="97.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0097_0" type="equivalente" depart="97.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0097_1" type="equivalente" depart="97.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0097_2" type="equivalente" depart="97.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0098_0" type="equivalente" depart="98.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0098_1" type="equivalente" depart="98.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0098_2" type="equivalente" depart="98.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0098_0" type="equivalente" depart="98.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0098_1" type="equivalente" depart="98.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0098_2" type="equivalente" depart="98.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0099_0" type="equivalente" depart="99.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0099_1" type="equivalente" depart="99.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0099_2" type="equivalente" depart="99.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0099_0" type="equivalente" depart="99.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0099_1" type="equivalente" depart="99.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0099_2" type="equivalente" depart="99.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0100_0" type="equivalente" depart="100.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0100_1" type="equivalente" depart="100.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0100_2" type="equivalente" depart="100.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0100_0" type="equivalente" depart="100.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0100_1" type="equivalente" depart="100.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0100_2" type="equivalente" depart="100.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0101_0" type="equivalente" depart="101.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0101_1" type="equivalente" depart="101.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0101_2" type="equivalente" depart="101.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0101_0" type="equivalente" depart="101.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0101_1" type="equivalente" depart="101.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0101_2" type="equivalente" depart="101.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0102_0" type="equivalente" depart="102.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0102_1" type="equivalente" depart="102.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0102_2" type="equivalente" depart="102.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0102_0" type="equivalente" depart="102.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0102_1" type="equivalente" depart="102.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0102_2" type="equivalente" depart="102.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0103_0" type="equivalente" depart="103.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0103_1" type="equivalente" depart="103.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0103_2" type="equivalente" depart="103.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0103_0" type="equivalente" depart="103.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0103_1" type="equivalente" depart="103.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0103_2" type="equivalente" depart="103.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0104_0" type="equivalente" depart="104.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0104_1" type="equivalente" depart="104.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0104_2" type="equivalente" depart="104.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0104_0" type="equivalente" depart="104.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0104_1" type="equivalente" depart="104.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0104_2" type="equivalente" depart="104.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0105_0" type="equivalente" depart="105.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0105_1" type="equivalente" depart="105.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0105_2" type="equivalente" depart="105.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0105_0" type="equivalente" depart="105.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0105_1" type="equivalente" depart="105.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0105_2" type="equivalente" depart="105.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0106_0" type="equivalente" depart="106.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0106_1" type="equivalente" depart="106.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0106_2" type="equivalente" depart="106.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0106_0" type="equivalente" depart="106.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0106_1" type="equivalente" depart="106.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0106_2" type="equivalente" depart="106.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0107_0" type="equivalente" depart="107.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0107_1" type="equivalente" depart="107.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0107_2" type="equivalente" depart="107.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0107_0" type="equivalente" depart="107.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0107_1" type="equivalente" depart="107.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0107_2" type="equivalente" depart="107.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0108_0" type="equivalente" depart="108.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0108_1" type="equivalente" depart="108.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0108_2" type="equivalente" depart="108.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0108_0" type="equivalente" depart="108.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0108_1" type="equivalente" depart="108.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0108_2" type="equivalente" depart="108.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0109_0" type="equivalente" depart="109.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0109_1" type="equivalente" depart="109.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0109_2" type="equivalente" depart="109.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0109_0" type="equivalente" depart="109.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0109_1" type="equivalente" depart="109.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0109_2" type="equivalente" depart="109.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0110_0" type="equivalente" depart="110.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0110_1" type="equivalente" depart="110.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0110_2" type="equivalente" depart="110.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0110_0" type="equivalente" depart="110.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0110_1" type="equivalente" depart="110.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0110_2" type="equivalente" depart="110.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0111_0" type="equivalente" depart="111.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0111_1" type="equivalente" depart="111.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0111_2" type="equivalente" depart="111.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0111_0" type="equivalente" depart="111.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0111_1" type="equivalente" depart="111.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0111_2" type="equivalente" depart="111.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0112_0" type="equivalente" depart="112.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0112_1" type="equivalente" depart="112.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0112_2" type="equivalente" depart="112.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0112_0" type="equivalente" depart="112.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0112_1" type="equivalente" depart="112.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0112_2" type="equivalente" depart="112.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0113_0" type="equivalente" depart="113.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0113_1" type="equivalente" depart="113.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0113_2" type="equivalente" depart="113.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0113_0" type="equivalente" depart="113.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0113_1" type="equivalente" depart="113.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0113_2" type="equivalente" depart="113.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0114_0" type="equivalente" depart="114.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0114_1" type="equivalente" depart="114.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0114_2" type="equivalente" depart="114.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0114_0" type="equivalente" depart="114.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0114_1" type="equivalente" depart="114.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0114_2" type="equivalente" depart="114.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0115_0" type="equivalente" depart="115.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0115_1" type="equivalente" depart="115.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0115_2" type="equivalente" depart="115.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0115_0" type="equivalente" depart="115.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0115_1" type="equivalente" depart="115.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0115_2" type="equivalente" depart="115.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0116_0" type="equivalente" depart="116.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0116_1" type="equivalente" depart="116.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0116_2" type="equivalente" depart="116.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0116_0" type="equivalente" depart="116.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0116_1" type="equivalente" depart="116.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0116_2" type="equivalente" depart="116.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0117_0" type="equivalente" depart="117.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0117_1" type="equivalente" depart="117.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0117_2" type="equivalente" depart="117.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0117_0" type="equivalente" depart="117.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0117_1" type="equivalente" depart="117.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0117_2" type="equivalente" depart="117.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0118_0" type="equivalente" depart="118.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0118_1" type="equivalente" depart="118.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0118_2" type="equivalente" depart="118.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0118_0" type="equivalente" depart="118.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0118_1" type="equivalente" depart="118.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0118_2" type="equivalente" depart="118.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0119_0" type="equivalente" depart="119.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0119_1" type="equivalente" depart="119.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0119_2" type="equivalente" depart="119.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0119_0" type="equivalente" depart="119.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0119_1" type="equivalente" depart="119.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0119_2" type="equivalente" depart="119.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0120_0" type="equivalente" depart="120.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0120_1" type="equivalente" depart="120.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0120_2" type="equivalente" depart="120.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0120_0" type="equivalente" depart="120.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0120_1" type="equivalente" depart="120.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0120_2" type="equivalente" depart="120.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0121_0" type="equivalente" depart="121.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0121_1" type="equivalente" depart="121.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0121_2" type="equivalente" depart="121.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0121_0" type="equivalente" depart="121.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0121_1" type="equivalente" depart="121.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0121_2" type="equivalente" depart="121.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0122_0" type="equivalente" depart="122.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0122_1" type="equivalente" depart="122.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0122_2" type="equivalente" depart="122.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0122_0" type="equivalente" depart="122.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0122_1" type="equivalente" depart="122.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0122_2" type="equivalente" depart="122.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0123_0" type="equivalente" depart="123.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0123_1" type="equivalente" depart="123.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0123_2" type="equivalente" depart="123.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0123_0" type="equivalente" depart="123.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0123_1" type="equivalente" depart="123.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0123_2" type="equivalente" depart="123.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0124_0" type="equivalente" depart="124.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0124_1" type="equivalente" depart="124.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0124_2" type="equivalente" depart="124.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0124_0" type="equivalente" depart="124.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0124_1" type="equivalente" depart="124.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0124_2" type="equivalente" depart="124.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0125_0" type="equivalente" depart="125.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0125_1" type="equivalente" depart="125.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0125_2" type="equivalente" depart="125.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0125_0" type="equivalente" depart="125.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0125_1" type="equivalente" depart="125.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0125_2" type="equivalente" depart="125.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0126_0" type="equivalente" depart="126.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0126_1" type="equivalente" depart="126.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0126_2" type="equivalente" depart="126.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0126_0" type="equivalente" depart="126.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0126_1" type="equivalente" depart="126.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0126_2" type="equivalente" depart="126.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0127_0" type="equivalente" depart="127.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0127_1" type="equivalente" depart="127.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0127_2" type="equivalente" depart="127.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0127_0" type="equivalente" depart="127.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0127_1" type="equivalente" depart="127.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0127_2" type="equivalente" depart="127.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0128_0" type="equivalente" depart="128.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0128_1" type="equivalente" depart="128.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0128_2" type="equivalente" depart="128.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0128_0" type="equivalente" depart="128.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0128_1" type="equivalente" depart="128.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0128_2" type="equivalente" depart="128.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0129_0" type="equivalente" depart="129.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0129_1" type="equivalente" depart="129.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0129_2" type="equivalente" depart="129.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0129_0" type="equivalente" depart="129.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0129_1" type="equivalente" depart="129.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0129_2" type="equivalente" depart="129.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0130_0" type="equivalente" depart="130.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0130_1" type="equivalente" depart="130.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0130_2" type="equivalente" depart="130.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0130_0" type="equivalente" depart="130.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0130_1" type="equivalente" depart="130.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0130_2" type="equivalente" depart="130.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0131_0" type="equivalente" depart="131.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0131_1" type="equivalente" depart="131.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0131_2" type="equivalente" depart="131.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0131_0" type="equivalente" depart="131.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0131_1" type="equivalente" depart="131.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0131_2" type="equivalente" depart="131.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0132_0" type="equivalente" depart="132.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0132_1" type="equivalente" depart="132.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0132_2" type="equivalente" depart="132.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0132_0" type="equivalente" depart="132.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0132_1" type="equivalente" depart="132.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0132_2" type="equivalente" depart="132.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0133_0" type="equivalente" depart="133.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0133_1" type="equivalente" depart="133.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0133_2" type="equivalente" depart="133.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0133_0" type="equivalente" depart="133.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0133_1" type="equivalente" depart="133.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0133_2" type="equivalente" depart="133.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0134_0" type="equivalente" depart="134.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0134_1" type="equivalente" depart="134.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0134_2" type="equivalente" depart="134.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0134_0" type="equivalente" depart="134.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0134_1" type="equivalente" depart="134.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0134_2" type="equivalente" depart="134.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0135_0" type="equivalente" depart="135.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0135_1" type="equivalente" depart="135.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0135_2" type="equivalente" depart="135.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0135_0" type="equivalente" depart="135.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0135_1" type="equivalente" depart="135.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0135_2" type="equivalente" depart="135.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0136_0" type="equivalente" depart="136.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0136_1" type="equivalente" depart="136.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0136_2" type="equivalente" depart="136.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0136_0" type="equivalente" depart="136.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0136_1" type="equivalente" depart="136.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0136_2" type="equivalente" depart="136.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0137_0" type="equivalente" depart="137.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0137_1" type="equivalente" depart="137.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0137_2" type="equivalente" depart="137.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0137_0" type="equivalente" depart="137.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0137_1" type="equivalente" depart="137.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0137_2" type="equivalente" depart="137.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0138_0" type="equivalente" depart="138.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0138_1" type="equivalente" depart="138.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0138_2" type="equivalente" depart="138.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0138_0" type="equivalente" depart="138.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0138_1" type="equivalente" depart="138.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0138_2" type="equivalente" depart="138.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0139_0" type="equivalente" depart="139.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0139_1" type="equivalente" depart="139.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0139_2" type="equivalente" depart="139.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0139_0" type="equivalente" depart="139.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0139_1" type="equivalente" depart="139.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0139_2" type="equivalente" depart="139.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0140_0" type="equivalente" depart="140.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0140_1" type="equivalente" depart="140.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0140_2" type="equivalente" depart="140.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0140_0" type="equivalente" depart="140.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0140_1" type="equivalente" depart="140.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0140_2" type="equivalente" depart="140.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0141_0" type="equivalente" depart="141.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0141_1" type="equivalente" depart="141.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0141_2" type="equivalente" depart="141.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0141_0" type="equivalente" depart="141.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0141_1" type="equivalente" depart="141.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0141_2" type="equivalente" depart="141.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0142_0" type="equivalente" depart="142.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0142_1" type="equivalente" depart="142.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0142_2" type="equivalente" depart="142.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0142_0" type="equivalente" depart="142.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0142_1" type="equivalente" depart="142.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0142_2" type="equivalente" depart="142.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0143_0" type="equivalente" depart="143.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0143_1" type="equivalente" depart="143.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0143_2" type="equivalente" depart="143.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0143_0" type="equivalente" depart="143.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0143_1" type="equivalente" depart="143.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0143_2" type="equivalente" depart="143.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="D_0144_0" type="equivalente" depart="144.000" departLane="0" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0144_1" type="equivalente" depart="144.000" departLane="1" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="D_0144_2" type="equivalente" depart="144.000" departLane="2" departSpeed="max">
+    <route edges="direita_in direita_out" />
+  </vehicle>
+  <vehicle id="E_0144_0" type="equivalente" depart="144.000" departLane="0" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0144_1" type="equivalente" depart="144.000" departLane="1" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+  <vehicle id="E_0144_2" type="equivalente" depart="144.000" departLane="2" departSpeed="max">
+    <route edges="esquerda_in esquerda_out" />
+  </vehicle>
+</routes>

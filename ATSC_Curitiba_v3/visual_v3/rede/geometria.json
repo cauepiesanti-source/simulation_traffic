@@ -1,0 +1,12 @@
+{
+  "faixas": {
+    "D": 3,
+    "E": 3,
+    "L": 3
+  },
+  "movimentos": "somente em frente",
+  "conexoes_controladas": 9,
+  "largura_faixa_m": 3.2,
+  "mureta_m": 2.0,
+  "geometria_metrica": "hipotetica"
+}

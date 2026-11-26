@@ -1,0 +1,8 @@
+***Starting server on port 55271 ***
+Loading net-file from 'P:\Meu Drive\Documentos\UTFPR\2026-2\Ciências do ambiente\Projeto 1\Simulation\ATSC_Curitiba_v4\capacidade_tau16\rede\rede.net.xml' ... done (5ms).
+Loading additional-files from 'P:\Meu Drive\Documentos\UTFPR\2026-2\Ciências do ambiente\Projeto 1\Simulation\ATSC_Curitiba_v4\capacidade_tau16\capacidade\20003_M\loops.add.xml' ... done (18ms).
+Loading route-files from 'P:\Meu Drive\Documentos\UTFPR\2026-2\Ciências do ambiente\Projeto 1\Simulation\ATSC_Curitiba_v4\capacidade_tau16\capacidade\20003_M\cap.rou.xml' ... done (43ms).
+Loading done.
+Simulation version 1.28.0 started with time: 0.00.
+Simulation ended at time: 145.00.
+Reason: TraCI requested termination.

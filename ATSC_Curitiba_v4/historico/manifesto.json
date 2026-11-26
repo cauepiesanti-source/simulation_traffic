@@ -1,0 +1,26 @@
+[
+  {
+    "pasta": "v2.0_escala_1",
+    "versao": "2.0",
+    "escala": 1.0,
+    "experimentos": 60
+  },
+  {
+    "pasta": "v3.0_escala_1",
+    "versao": "3.0",
+    "escala": 1.0,
+    "experimentos": 60
+  },
+  {
+    "pasta": "v3.0_escala_1.2",
+    "versao": "3.0",
+    "escala": 1.2,
+    "experimentos": 60
+  },
+  {
+    "pasta": "v3.0_escala_1.4",
+    "versao": "3.0",
+    "escala": 1.4,
+    "experimentos": 60
+  }
+]

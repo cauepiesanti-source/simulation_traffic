@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2026-11-26T10:05:27.070859-03:00 by Eclipse SUMO sumo 1.28.0
+<sumoConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="P:\Meu Drive\Documentos\UTFPR\2026-2\Ciências do ambiente\Projeto 1\Simulation\ATSC_Curitiba_v4\resultados_v4_calibrado\rede\rede.net.xml"/>
+        <route-files value="P:\Meu Drive\Documentos\UTFPR\2026-2\Ciências do ambiente\Projeto 1\Simulation\ATSC_Curitiba_v4\resultados_v4_calibrado\capacidade\20002_M\cap.rou.xml"/>
+        <additional-files value="P:\Meu Drive\Documentos\UTFPR\2026-2\Ciências do ambiente\Projeto 1\Simulation\ATSC_Curitiba_v4\resultados_v4_calibrado\capacidade\20002_M\loops.add.xml"/>
+    </input>
+
+    <time>
+        <step-length value="1"/>
+    </time>
+
+    <processing>
+        <route-steps value="0"/>
+        <collision.action value="warn"/>
+        <time-to-teleport value="-1"/>
+        <max-depart-delay value="-1"/>
+    </processing>
+
+    <report>
+        <log value="P:\Meu Drive\Documentos\UTFPR\2026-2\Ciências do ambiente\Projeto 1\Simulation\ATSC_Curitiba_v4\resultados_v4_calibrado\capacidade\20002_M\sumo.log"/>
+        <duration-log.disable value="true"/>
+        <no-step-log value="true"/>
+    </report>
+
+    <traci_server>
+        <remote-port value="52496"/>
+    </traci_server>
+
+    <random_number>
+        <seed value="20002"/>
+    </random_number>
+
+</sumoConfiguration>
+-->
+
+<detector xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/det_e1_file.xsd">
+    <interval begin="0.00" end="145.00" id="D_0" nVehContrib="16" flow="397.24" occupancy="4.39" speed="11.35" harmonicMeanSpeed="11.30" length="4.50" nVehEntered="16"/>
+    <interval begin="0.00" end="145.00" id="D_1" nVehContrib="15" flow="372.41" occupancy="4.35" speed="11.22" harmonicMeanSpeed="11.19" length="4.50" nVehEntered="16"/>
+    <interval begin="0.00" end="145.00" id="D_2" nVehContrib="15" flow="372.41" occupancy="4.45" speed="11.13" harmonicMeanSpeed="11.10" length="4.50" nVehEntered="16"/>
+    <interval begin="0.00" end="145.00" id="E_0" nVehContrib="16" flow="397.24" occupancy="4.36" speed="11.45" harmonicMeanSpeed="11.40" length="4.50" nVehEntered="16"/>
+    <interval begin="0.00" end="145.00" id="E_1" nVehContrib="15" flow="372.41" occupancy="4.22" speed="11.11" harmonicMeanSpeed="11.08" length="4.50" nVehEntered="16"/>
+    <interval begin="0.00" end="145.00" id="E_2" nVehContrib="15" flow="372.41" occupancy="4.18" speed="11.18" harmonicMeanSpeed="11.13" length="4.50" nVehEntered="15"/>
+</detector>
