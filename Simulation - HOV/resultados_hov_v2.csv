@@ -1,0 +1,5 @@
+﻿cenario;ocupacao_alvo;elegiveis_alvo_pct;elegiveis_efetivos_pct;pessoas_oferecidas;automoveis;capacidade_faixa;semente_inicial;n_sementes;espera_pessoa_s;espera_veiculo_s;espera_solo_s;espera_elegivel_s;pessoas_concluidas_60min_media;fila_max_media;atende_criterios
+A_sem_HOV;1,40594;32,66815;32,66167;3000;2134;900;42;12;2,08347;2,07901;2,0838;2,06914;2975,75;12,16667;nao
+B_sem_adesao;1,40594;32,66815;32,66167;3000;2134;900;42;12;3,33353;3,94381;4,98869;1,78958;2974,41667;14,16667;nao
+C_moderada;1,5;40,23723;40,25;3000;2000;900;42;12;1,93508;2,20986;2,77424;1,37207;2976,33333;11,08333;sim
+D_alta;1,65;52,3084;52,31023;3000;1818;900;42;12;1,09199;1,20803;1,54175;0,90379;2976,5;8,41667;sim
